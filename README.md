@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**klundern/klundern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: completing Harvard cs50, and cs50 Game Dev!
 - 🌱 I’m currently learning HTML, CSS, JavaScript via Harvard cs50
 - 👯 I’m looking to collaborate on: game devlopment?
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love trains!
--->
