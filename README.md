@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on: completing Harvard CS50 (Introduction to Computer Science), Harvard 'GD50': Introduction to Game Development, and building my own website
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, and Lua
 - 💬 Ask me about: learning new skills while being a full-time student, hobby programming, and integrating medicine with programming
-- 📫 How to reach me: website (https://klundern.github.io), email (klundern@gmail.com), Linkedin (https://www.linkedin.com/in/nolanklunder/)
+- 📫 How to reach me: email (klundern@gmail.com) or Linkedin (https://www.linkedin.com/in/nolanklunder/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a 3rd year Medical Student
+- ⚡ Fun fact: I'm a 4th year medical student!
 
 #### Thanks for visiting my github page!
