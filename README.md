@@ -4,10 +4,10 @@
 
 #### Here's a little more about me:
 
-- 🔭 I’m currently working on: Harvard 'GD50': Introduction to Game Development, building my own blog, and some personal gaming projects (BirdDog, a simple side-scroller made with LOVE2D, and Medicinal, an adventure RPG made with Godot).
-- 🌱 I’m currently learning: Lua, Godot, CSS, and HTML.
+- 🔭 I’m currently working on: personal gaming projects including BirdDog, a simple side-scroller made with LOVE2D, and Medicinal, an adventure RPG made with Godot.
+- 🌱 I’m currently learning: Lua, Godot
 - 💬 Ask me about: learning new skills while being a full-time student, hobby programming, and using programming/games to promote medicine and healthcare!
-- 📫 How to reach me: email (klundern@gmail.com) or Linkedin (https://www.linkedin.com/in/nolanklunder/)
+- 📫 How to reach me: email (klundern@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a 4th year medical student!
 
