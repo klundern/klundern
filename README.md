@@ -4,11 +4,11 @@
 
 #### Here's a little more about me:
 
-- 🔭 I’m currently working on: personal gaming projects including BirdDog, a simple side-scroller made with LOVE2D, and Medicinal, an adventure RPG made with Godot.
-- 🌱 I’m currently learning: Lua, Godot
-- 💬 Ask me about: learning new skills while being a full-time student, hobby programming, and using programming/games to promote medicine and healthcare!
+- 🔭 I’m currently working on: personal gaming projects including BirdDog, a simple side-scroller made with LOVE2D, and Medicinal, an adventure RPG.
+- 🌱 I’m currently learning: Lua/LOVE2D, Godot, Swift
+- 💬 Ask me about: hobby programming, using programming/games to promote medicine and healthcare!
 - 📫 How to reach me: email (klundern@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a 4th year medical student!
+- ⚡ Fun fact: I started learning to code when I was 24 years old (I'm now 28).
 
 #### Thanks for visiting my github page!
